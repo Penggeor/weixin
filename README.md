@@ -1,10 +1,10 @@
-# 给微信文章、掘金文章加表情（Emoji）
+# 给微信文章、掘金文章标题添加表情（Emoji）
 
 ![./example](./example.png)
 
 ![./example](./example.juejin.png)
 
-以下表情包可以直接微信公众号文章、掘金文章中使用，如上图：
+以下表情包（emoji）可以复制，然后在微信公众号文章、掘金文章标题中使用，如上图：
 
 | Emoji | Name | Emoji | Name | Emoji | Name |
 | ----- | ---- | ----- | ---- | ----- | ---- |
